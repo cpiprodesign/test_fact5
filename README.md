@@ -126,8 +126,8 @@ Validador documentos: [Guía](https://docs.google.com/document/d/1v6XpJrEwCx3suR
 * Toda instalación es gestionada mediante los canales de Whatsap
 * Nuevas instalaciones o actualizaciones deben ser programadas y gestionadas, para ser ejecutada el mismo día debe haber un problema previo
 
-## OAK SISTEM PERU
+## cpiprodesaign
 
-[oaksistem.online](http://oaksistem.online "Clic")<br>
-soporte@oaksistem.com<br>
-wsapp: 991 553 591<br>
+
+soporte@cpiprodesign.com<br>
+wsapp: 935667172<br>
